@@ -15,3 +15,5 @@ You can use [Jekyll](https://help.github.com/en/articles/about-github-pages-and-
 
 But actually you can use Jekyll on GitHub even without installing it and manage your blog just online.
 
+You can create [blog in 30 seconds](https://www.jekyllnow.com/).
+
