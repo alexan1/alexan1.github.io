@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second post
+title: hosting blog on github pages
 ---
 
 This should be second post.
