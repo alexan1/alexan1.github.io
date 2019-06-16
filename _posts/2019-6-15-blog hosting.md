@@ -9,5 +9,7 @@ Now it's popular to use static site generators, see for example Scott Hanselman'
 
 And of course it's true for blogs. One way for this - use [Github Pages As Blogging Platform](https://medium.com/@tordable/github-pages-as-blogging-platform-320524b1fffa).
 
+Phil Haack hosts [his blog](https://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/) this way.
+
 You can use [Jekyll](https://help.github.com/en/articles/about-github-pages-and-jekyll) as content generator. You need [to install Jekyll](https://jekyllrb.com/docs/), generate content locally and then push to GitHub Pages.
 
