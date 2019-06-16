@@ -17,3 +17,7 @@ But actually you can use Jekyll on GitHub even without installing it and manage 
 
 You can create [blog in 30 seconds](https://www.jekyllnow.com/).
 
+You should just to fork [this repo](https://github.com/barryclark/jekyll-now) and modify it.
+
+And what I did.
+
