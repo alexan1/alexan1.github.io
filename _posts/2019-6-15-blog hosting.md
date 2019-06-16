@@ -13,3 +13,5 @@ Phil Haack hosts [his blog](https://haacked.com/archive/2013/12/02/dr-jekyll-and
 
 You can use [Jekyll](https://help.github.com/en/articles/about-github-pages-and-jekyll) as content generator. You need [to install Jekyll](https://jekyllrb.com/docs/), generate content locally and then push to GitHub Pages.
 
+But actually you can use Jekyll on GitHub even without installing it and manage your blog just online.
+
