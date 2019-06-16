@@ -19,5 +19,5 @@ You can create [blog in 30 seconds](https://www.jekyllnow.com/).
 
 You should just to fork [this repo](https://github.com/barryclark/jekyll-now) and modify it.
 
-And what I did.
+And that's what I did.
 
