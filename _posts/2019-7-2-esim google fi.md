@@ -13,4 +13,6 @@ Esim is used [in iPhone, iPad and Pixel](https://www.pocket-lint.com/phones/news
 
 These phones usually have one slot for physical sim and other esim, so you can have two phones numbers on one device (something like dual sim phones).
 
+Difference between dual sim phone and phone with esim, that in former case you have two numbers at the same time, but in latter you should select current carrier, so you can use only one number at the current time.
+
 
