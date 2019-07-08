@@ -23,5 +23,9 @@ Unfortunately not all phone providers support esim at this moment.
 
 But Google added esim in their Pixel phones to allow users to subscibe to [Google Fi](https://fi.google.com) service.
 
+What is [Google Fi](https://en.wikipedia.org/wiki/Google_Fi):
+
+> Google Fi (formerly Project Fi) is an MVNO telecommunications service by Google that provides telephone calls, SMS, and mobile broadband using cellular networks and Wi-Fi.
+
 
 
