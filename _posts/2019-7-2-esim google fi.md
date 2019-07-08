@@ -35,3 +35,5 @@ But Google Fi is available only for Americans.
 
 You can activate it outside of USA, but you should have American address, credit card and you'll get American phone number.
 
+It can be usefull for [digital nomad](https://medium.com/@panteliszirinis/project-fi-activating-internationally-and-using-it-as-a-digital-nomad-on-nexus-and-iphone-687b04f4cf32).
+
