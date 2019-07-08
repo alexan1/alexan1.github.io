@@ -17,4 +17,8 @@ Difference between dual sim phone and phone with esim, that in former case you h
 
 Btw, esim can be used not only in phones, but in other devices, which requre access to cellular data, but here we aren't look at this.
 
+To use esim in phone we need to get esim pack from your phone provider. It can be in form of QR code.
+
+Unfortunately not all phone providers support esim at this moment.
+
 
