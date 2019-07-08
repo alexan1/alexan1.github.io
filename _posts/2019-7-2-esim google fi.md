@@ -27,5 +27,9 @@ What is [Google Fi](https://en.wikipedia.org/wiki/Google_Fi):
 
 > Google Fi (formerly Project Fi) is an MVNO telecommunications service by Google that provides telephone calls, SMS, and mobile broadband using cellular networks and Wi-Fi.
 
+How much it costs:
+
+> A subscription costs $20 per month for unlimited calls and messaging, plus a customizable data allowance costing an additional $10 per gigabyte. 
+
 
 
