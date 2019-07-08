@@ -38,3 +38,11 @@ It can be usefull for [digital nomad](https://medium.com/@panteliszirinis/projec
 You can activate it outside of USA, but you should have American address, credit card and you'll get American phone number.
 
 First you need to subscribe to [Google Fi](https://fi.google.com) using your Google account.
+
+You have 3 option for your phone number:
+
+1. Transfer your American phone number if you have it
+2. Transfer your Google Voice number if you have one
+3. Get new number
+
+But then you should activate it.
