@@ -21,4 +21,7 @@ To use esim in phone we need to get esim pack from your phone provider. It can b
 
 Unfortunately not all phone providers support esim at this moment.
 
+But Google added esim in their Pixel phones to allow users to subscibe to [Google Fi](https://fi.google.com) service.
+
+
 
