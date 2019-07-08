@@ -31,5 +31,7 @@ How much it costs:
 
 > A subscription costs $20 per month for unlimited calls and messaging, plus a customizable data allowance costing an additional $10 per gigabyte. 
 
+But Google Fi is available only for Americans.
 
+You can activate it outside of USA, but you should have American address, credit card and you'll get American phone number.
 
