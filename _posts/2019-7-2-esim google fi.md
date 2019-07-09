@@ -52,7 +52,7 @@ Unfortunately this app isn't available when you outside USA.
 Nevertheless you have several options:
 
 1. go to USA and activate there
-2. install VPN on you phone, for example [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android), clean cache on your phone and turn off location. (probably it won't work, because Google detects VPN connection).
+2. install VPN on your phone, for example [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android), clean cache on your phone and turn off location. (probably it won't work, because Google detects VPN connection).
 3. if you have 2 devices, install VPN on one and connect second using hotspot. (probably won't work nether)
 4. download and install app APK from [APKMirror](https://www.apkmirror.com/) or [APKpure](https://apkpure.com/).
 
