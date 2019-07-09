@@ -13,15 +13,15 @@ Esim is used [in iPhone, iPad and Pixel](https://www.pocket-lint.com/phones/news
 
 These phones usually have one slot for physical sim and other esim, so you can have two phone numbers on the same device (something like dual sim phones).
 
-Difference between a dual sim phone and a phone with esim is that in former case you have two numbers at the same time, however in latter you should select current carrier, so you can use only one number at the current time.
+The difference between a dual sim phone and a phone with esim is that in former case you have two numbers at the same time, however in latter you should select current carrier, so you can use only one number at the current time.
 
-Btw, esim can be used not only in phones, but in other devices, which require access to cellular data, but here we aren't looking at this.
+Btw, esim can be used not only in phones but in other devices which require access to cellular data but here we aren't looking at this.
 
 To use esim in phone we need to get esim pack from your phone provider. It can be in form of QR code.
 
 Unfortunately not all phone providers support esim at this moment.
 
-Actually Google added esim in their Pixel phones to allow users to subscibe to [Google Fi](https://fi.google.com) service.
+Google added esim in their Pixel phones to allow users to subscibe to [Google Fi](https://fi.google.com) service.
 
 What is [Google Fi](https://en.wikipedia.org/wiki/Google_Fi):
 
@@ -31,7 +31,7 @@ How much it costs:
 
 > A subscription costs $20 per month for unlimited calls and messaging, plus a customizable data allowance costing an additional $10 per gigabyte. 
 
-However Google Fi is available only for Americans.
+However Google Fi is available in the USA only.
 
 It can be useful for [digital nomad](https://medium.com/@panteliszirinis/project-fi-activating-internationally-and-using-it-as-a-digital-nomad-on-nexus-and-iphone-687b04f4cf32).
 
@@ -39,7 +39,7 @@ You can activate it outside of USA, but you should have American address, credit
 
 First you need to subscribe to [Google Fi](https://fi.google.com) using your Google account.
 
-You have 3 option for your phone number:
+You have 3 options for your phone number:
 
 1. transfer your American phone number if you have it
 2. transfer your Google Voice number if you have one
@@ -47,13 +47,13 @@ You have 3 option for your phone number:
 
 You need to activate this number. For this you need to install [Google Fi](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho) on your phone.
 
-Unfortunately this app isn't available when you outside USA.
+Unfortunately this app isn't available when you're outside the USA.
 
 Nevertheless, you have several options:
 
 1. go to USA and activate there
 2. install VPN on your phone, for example [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android), clean cache on your phone and turn off location. (probably it won't work, because Google detects VPN connection).
-3. if you have 2 devices, install VPN on the first device and connect second one using phone's hotspot. (probably won't work nether)
+3. if you have 2 devices, install VPN on the first device and connect second one using phone's hotspot. (probably won't work either)
 4. download and install app APK from [APKMirror](https://www.apkmirror.com/) or [APKPure](https://apkpure.com/).
 
 Other catch: on top of $20 monthly fee you'll have to pay additional 20 cents per minute outside the US.
