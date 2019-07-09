@@ -49,7 +49,7 @@ You need to activate this number. For this you need to install [Google Fi](https
 
 Unfortunately this app isn't available when you outside USA.
 
-Nevertheless you have several options:
+Nevertheless, you have several options:
 
 1. go to USA and activate there
 2. install VPN on your phone, for example [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android), clean cache on your phone and turn off location. (probably it won't work, because Google detects VPN connection).
