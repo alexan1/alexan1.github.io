@@ -54,7 +54,7 @@ Nevertheless, you have several options:
 1. go to USA and activate there
 2. install VPN on your phone, for example [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android), clean cache on your phone and turn off location. (probably it won't work, because Google detects VPN connection).
 3. if you have 2 devices, install VPN on the first device and connect second one using phone's hotspot. (probably won't work nether)
-4. download and install app APK from [APKMirror](https://www.apkmirror.com/) or [APKpure](https://apkpure.com/).
+4. download and install app APK from [APKMirror](https://www.apkmirror.com/) or [APKPure](https://apkpure.com/).
 
 Other catch: on top of $20 monthly fee you'll have to pay additional 20 cents per minute outside the US.
 
