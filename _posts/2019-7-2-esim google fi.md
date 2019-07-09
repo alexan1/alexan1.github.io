@@ -55,3 +55,7 @@ But nevertheless you have several options:
 2. install VPN on you phone, for example [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android), clean cashe on your phone and turn off location. (probably it won't work, because Google detects VPN connection).
 3. if you have 2 devices, install VPN on one and connect second using hotspot. (probably won't work nether)
 4. download and install app APK from [APKMirror](https://www.apkmirror.com/) or [apkpure](https://apkpure.com/).
+
+Other catch: except $20 montly fee you pay additionaly 20 cents for minute outside US.
+
+To avoid these charges you can setup to use [Google Hangout](https://play.google.com/store/apps/details?id=com.google.android.talk) and [Google Dialer](https://play.google.com/store/apps/details?id=com.google.android.dialer) to accept calls and dial using Google Fi number.
