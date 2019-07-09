@@ -15,7 +15,7 @@ These phones usually have one slot for physical sim and other esim, so you can h
 
 Difference between dual sim phone and phone with esim, that in former case you have two numbers at the same time, however in latter you should select current carrier, so you can use only one number at the current time.
 
-Btw, esim can be used not only in phones, but in other devices, which requre access to cellular data, however here we aren't looking at this.
+Btw, esim can be used not only in phones, but in other devices, which requre access to cellular data, but here we aren't looking at this.
 
 To use esim in phone we need to get esim pack from your phone provider. It can be in form of QR code.
 
