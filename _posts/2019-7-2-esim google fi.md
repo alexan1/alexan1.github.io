@@ -45,4 +45,8 @@ You have 3 option for your phone number:
 2. Transfer your Google Voice number if you have one
 3. Get new number
 
-But then you should activate it.
+You need activate this number. For this you need install [Google Fi](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho) on your phone.
+
+Being outside of USA you have several options:
+
+1. Go to
