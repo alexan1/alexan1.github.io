@@ -13,15 +13,15 @@ Esim is used [in iPhone, iPad and Pixel](https://www.pocket-lint.com/phones/news
 
 These phones usually have one slot for physical sim and other esim, so you can have two phones numbers on the one device (something like dual sim phones).
 
-Difference between dual sim phone and phone with esim, that in former case you have two numbers at the same time, but in latter you should select current carrier, so you can use only one number at the current time.
+Difference between dual sim phone and phone with esim, that in former case you have two numbers at the same time, however in latter you should select current carrier, so you can use only one number at the current time.
 
-Btw, esim can be used not only in phones, but in other devices, which requre access to cellular data, but here we aren't look at this.
+Btw, esim can be used not only in phones, but in other devices, which requre access to cellular data, however here we aren't look at this.
 
 To use esim in phone we need to get esim pack from your phone provider. It can be in form of QR code.
 
 Unfortunately not all phone providers support esim at this moment.
 
-But Google added esim in their Pixel phones to allow users to subscibe to [Google Fi](https://fi.google.com) service.
+Actually Google added esim in their Pixel phones to allow users to subscibe to [Google Fi](https://fi.google.com) service.
 
 What is [Google Fi](https://en.wikipedia.org/wiki/Google_Fi):
 
@@ -31,7 +31,7 @@ How much it costs:
 
 > A subscription costs $20 per month for unlimited calls and messaging, plus a customizable data allowance costing an additional $10 per gigabyte. 
 
-But Google Fi is available only for Americans.
+However Google Fi is available only for Americans.
 
 It can be usefull for [digital nomad](https://medium.com/@panteliszirinis/project-fi-activating-internationally-and-using-it-as-a-digital-nomad-on-nexus-and-iphone-687b04f4cf32).
 
@@ -49,7 +49,7 @@ You need activate this number. For this you need install [Google Fi](https://pla
 
 Unfortunately this app isn't available when you outside USA.
 
-But nevertheless you have several options:
+Nevertheless you have several options:
 
 1. go to USA and activate there
 2. install VPN on you phone, for example [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android), clean cache on your phone and turn off location. (probably it won't work, because Google detects VPN connection).
