@@ -11,9 +11,9 @@ From [wiki](https://en.wikipedia.org/wiki/SIM_card#Embedded-SIM):
 
 Esim is used [in iPhone, iPad and Pixel](https://www.pocket-lint.com/phones/news/134640-what-is-an-esim-and-how-will-it-change-connected-devices-for-the-better).
 
-These phones usually have one slot for physical sim and other esim, so you can have two phones numbers on the same device (something like dual sim phones).
+These phones usually have one slot for physical sim and other esim, so you can have two phone numbers on the same device (something like dual sim phones).
 
-Difference between dual sim phone and phone with esim, that in former case you have two numbers at the same time, however in latter you should select current carrier, so you can use only one number at the current time.
+Difference between a dual sim phone and a phone with esim is that in former case you have two numbers at the same time, however in latter you should select current carrier, so you can use only one number at the current time.
 
 Btw, esim can be used not only in phones, but in other devices, which require access to cellular data, but here we aren't looking at this.
 
