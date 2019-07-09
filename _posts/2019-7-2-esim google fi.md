@@ -56,6 +56,6 @@ Nevertheless, you have several options:
 3. if you have 2 devices, install VPN on the first device and connect second one using phone's hotspot. (probably won't work nether)
 4. download and install app APK from [APKMirror](https://www.apkmirror.com/) or [APKpure](https://apkpure.com/).
 
-Other catch: on top of $20 monthly fee you pay additional 20 cents per minute outside the US.
+Other catch: on top of $20 monthly fee you'll have to pay additional 20 cents per minute outside the US.
 
 To avoid these charges you can setup to use [Google Hangout](https://play.google.com/store/apps/details?id=com.google.android.talk) and [Google Dialer](https://play.google.com/store/apps/details?id=com.google.android.dialer) to accept calls and dial using Google Fi number.
