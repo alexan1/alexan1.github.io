@@ -41,12 +41,19 @@ First you need to subscribe to [Google Fi](https://fi.google.com) using your Goo
 
 You have 3 option for your phone number:
 
-1. Transfer your American phone number if you have it
-2. Transfer your Google Voice number if you have one
-3. Get new number
+1. transfer your American phone number if you have it
+2. transfer your Google Voice number if you have one
+3. get new number
 
 You need activate this number. For this you need install [Google Fi](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho) on your phone.
 
-Being outside of USA you have several options:
+Unfortunately this app isn't available when you outside USA.
+
+But nevertheless you have several options:
+
+1. go to USA and activate there
+2. install VPN on you phone, for example [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android), clean cashe on your phone and turn off location. (probably it won't work, because Google detects VPN connection).
+3. if you have 2 devices, install VPN on one and connect second using hotspot. (probably won't work nether)
+4. download and install app APK from [APKMirror](https://www.apkmirror.com/) or [apkpure](https://apkpure.com/).
 
 1. Go to
