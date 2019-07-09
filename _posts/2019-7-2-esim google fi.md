@@ -43,7 +43,7 @@ You have 3 option for your phone number:
 
 1. transfer your American phone number if you have it
 2. transfer your Google Voice number if you have one
-3. get new number
+3. get a new number
 
 You need to activate this number. For this you need to install [Google Fi](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho) on your phone.
 
