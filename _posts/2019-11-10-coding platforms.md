@@ -2,7 +2,7 @@
 layout: post
 title: coding exercise platforms
 ---
-Recruting process has changed: now almost all hiring and recruiting companies require candidate to make online task excersise.
+Recruting process has changed: now almost all hiring and recruiting companies require candidate to make online task excercise.
 
 Using modern web technology it's poosible now to write code, compile and execurte directly in the browser.
 
