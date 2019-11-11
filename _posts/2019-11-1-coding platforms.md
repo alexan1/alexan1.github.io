@@ -14,6 +14,17 @@ The same platforms can be used by programmers to improve their technical skills 
 
 See [15 Sites for Programming Exercises](https://programmingzen.com/15-sites-for-programming-exercises/).
 
+And here is my list:
+
+1. [coderbyte](https://coderbyte.com/)
+2. [hackerrank](https://www.hackerrank.com/)
+3. [codility](https://www.codility.com/)
+4. [codesignal](https://codesignal.com/)
+5. [coderpad](https://coderpad.io/)
+6. [qualified](https://www.qualified.io/)
+7. [codingame](https://www.codingame.com/)
+8. [leetcode](https://leetcode.com/)
+
 
 
 
