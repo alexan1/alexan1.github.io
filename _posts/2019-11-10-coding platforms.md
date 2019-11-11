@@ -4,7 +4,7 @@ title: coding exercise platforms
 ---
 Recruting process has changed: now almost all hiring and recruiting companies require candidate to make online task excercise.
 
-Using modern web technology it's poosible now to write code, compile and execurte directly in the browser.
+Using modern web technology it's poosible now to write code, compile and execute directly in the browser.
 
 And Microsoft released [Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/).
 
