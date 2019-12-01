@@ -2,7 +2,7 @@
 layout: post
 title: interview questions
 ---
-Questions, asked on interview:
+Real questions, asked on interview:
 
 .NET C#
 1. What is difference between struct and class? Why we use one or another?
