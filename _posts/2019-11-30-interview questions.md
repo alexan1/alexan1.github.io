@@ -19,6 +19,8 @@ Real questions, asked on interview:
 12. Difference between dispose and desctructor
 13. Difference betwnn IEnumerable and IQuerable
 14. Didderence between Abstract class and interface
+15. Difference between String and StringBuilder
+16. String, is it reference or value type?
 
 SQL
 1. How to debug and fix query or SP
