@@ -11,9 +11,12 @@ Real questions, asked on interview:
 4. Add new functionality withour breaking existing
 5. Two pays of passing parameters to query using ADO.NET
 6. Inversion of control and dependency injection
-7. What is serverless 
+7. What is serverless and why we use it?
 8. Why we use static class or static method?
 9. Difference between overloading and overriding
+10. What is 'using' in C#?
+11. What is disposible?
+12. Difference between dispose and desctructor
 
 SQL
 1. How to debug and fix query or SP
