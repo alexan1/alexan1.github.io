@@ -17,6 +17,8 @@ Real questions, asked on interview:
 10. What is 'using' in C#?
 11. What is disposible?
 12. Difference between dispose and desctructor
+13. Difference betwnn IEnumerable and IQuerable
+14. Didderence between Abstract class and interface
 
 SQL
 1. How to debug and fix query or SP
