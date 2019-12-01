@@ -13,10 +13,12 @@ Questions, asked on interview:
 7. What is serverless 
 
 SQL
-8. How to debug and fix query or SP
-9. difference between primary key and unique key
-10. difference between primary key and primary index
-11. difference between SP and view
-12. difference between SP and function
-13. difference between truncate and delete 
+1. How to debug and fix query or SP
+2. difference between primary key and unique key
+3. difference between primary key and primary index
+4. difference between SP and view
+5. difference between SP and function
+6. difference between truncate and delete 
+7. difference between inner join,left join and right join
+
 
