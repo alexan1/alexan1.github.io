@@ -28,5 +28,6 @@ SQL
 7. difference between inner join, left join and right join
 8. difference between union and union all, except and intersect
 9. difference between having and where
+10. difference between clastered and nonclastered index
 
 
