@@ -12,6 +12,8 @@ Real questions, asked on interview:
 5. Two pays of passing parameters to query using ADO.NET
 6. Inversion of control and dependency injection
 7. What is serverless 
+8. Why we use static class or static method?
+9. Difference between overloading and overriding
 
 SQL
 1. How to debug and fix query or SP
