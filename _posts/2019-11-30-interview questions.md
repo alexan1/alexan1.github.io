@@ -22,6 +22,7 @@ Real questions, asked on interview:
 15. Difference between String and StringBuilder
 16. String, is it reference or value type?
 17. What is nullable and why to use them?
+18. Which design patterns you used?
 
 SQL
 1. How to debug and fix query or SP
