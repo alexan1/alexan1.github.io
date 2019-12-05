@@ -1,6 +1,6 @@
 ---
 layout: post
 title: interviews
-visible: 1
+hidden: true
 ---
 Real questions, asked on interview:
