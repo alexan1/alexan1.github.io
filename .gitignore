@@ -8,6 +8,4 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
-/.vs/slnx.sqlite
-/.vs/alexan1.github.io/v16
-/.vs/VSWorkspaceState.json
+/.vs/
