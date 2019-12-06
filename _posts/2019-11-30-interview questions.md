@@ -65,7 +65,7 @@ DevOps
 1. How we can do CD?
 
 Agile
-1. 3 Agile roles
-
+1. Agile roles
+2. Story ponts
 
 
