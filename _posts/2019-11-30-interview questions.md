@@ -30,6 +30,7 @@ OOP
 12. What is nullable and why to use them?
 13. How to use conteiner for DI?
 14. How we use Singleton in DI?
+15. Name of container in DI
 
 
 Web API
