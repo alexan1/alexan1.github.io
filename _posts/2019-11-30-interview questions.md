@@ -31,6 +31,7 @@ OOP
 13. How to use conteiner for DI?
 14. How we use Singleton in DI?
 15. Name of container in DI
+16. Why we use interfaces in DI?
 
 
 Web API
