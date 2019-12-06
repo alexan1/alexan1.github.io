@@ -39,7 +39,7 @@ Web API
 
 
 SQL
-1. How to debug and fix query or SP
+1. How to debug and fix query or SP?
 2. difference between primary key and unique key
 3. difference between primary key and primary index
 4. difference between SP and view
@@ -50,6 +50,8 @@ SQL
 9. difference between having and where
 10. difference between clastered and nonclastered 
 11. How to do unit testing for SQL?
+12. Some difference between old versions of SQL server and new
+13. Types of temporary tables
 
 
 JavaScript
