@@ -57,5 +57,8 @@ JavaScript
 2. How inheritance work in JS?
 
 
+DevOps
+1. How we can do CD?
+
 
 
