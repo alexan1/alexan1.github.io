@@ -32,6 +32,12 @@ OOP
 14. How we use Singleton in DI?
 
 
+Web API
+1. Which vers used in Web API?
+2. Can we use HttpPost to get info?
+3. Can we use Get to rend request in body?
+
+
 SQL
 1. How to debug and fix query or SP
 2. difference between primary key and unique key
