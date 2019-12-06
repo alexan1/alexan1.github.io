@@ -2,7 +2,6 @@
 layout: post
 title: interviews
 hidden: true
-published: false
 ---
 * December 5, 2019 [Société Générale](https://www.societegenerale.com/)
 * November 29, 2019 [explorance](https://explorance.com/) 
