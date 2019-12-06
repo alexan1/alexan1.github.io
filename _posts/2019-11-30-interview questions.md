@@ -12,6 +12,7 @@ OOP
 5. Why we use static class or static method?
 6. Difference between overloading and overriding
 7. Didderence between Abstract class and interface
+8. What is SOLID?
 
 
 .NET C#
@@ -27,6 +28,8 @@ OOP
 10. Difference between String and StringBuilder
 11. String, is it reference or value type?
 12. What is nullable and why to use them?
+13. How to use conteiner for DI?
+14. How we use Singleton in DI?
 
 
 SQL
