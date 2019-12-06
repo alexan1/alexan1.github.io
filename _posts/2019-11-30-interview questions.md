@@ -62,5 +62,8 @@ JavaScript
 DevOps
 1. How we can do CD?
 
+Agile
+1. 3 Agile roles
+
 
 
