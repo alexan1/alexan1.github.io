@@ -40,6 +40,7 @@ SQL
 8. difference between union and union all, except and intersect
 9. difference between having and where
 10. difference between clastered and nonclastered 
+11. How to do unit testing for SQL?
 
 
 JavaScript
