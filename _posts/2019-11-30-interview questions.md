@@ -13,6 +13,7 @@ OOP
 6. Difference between overloading and overriding
 7. Didderence between Abstract class and interface
 8. What is SOLID?
+9. What is Singleton?
 
 
 .NET C#
