@@ -33,6 +33,7 @@ OOP
 14. How we use Singleton in DI?
 15. Name of container in DI
 16. Why we use interfaces in DI?
+17. Difference betwwen ref and out parameters
 
 
 Web API
