@@ -50,6 +50,7 @@ Web API
 3. Can we use Get to rend request in body?
 4. How to log every request?
 5. How to do autentification in Web Api?
+6. How to catch exeptions in Web Api?
 
 
 SQL
