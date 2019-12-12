@@ -78,6 +78,7 @@ JavaScript and Angular
 4. What is selection in jQuery?
 5. Difference between directive and expression in Angular
 6. Types of directives in Angular
+7. What is difference between Angular and AngularJS?
 
 
 DevOps
