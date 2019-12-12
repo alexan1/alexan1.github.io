@@ -38,6 +38,7 @@ OOP
 18. How to keep session in MVC Core?
 19. Waht is difference between .NET and .NET Core?
 20. What is difference between TempData and ViewData?
+21. How to calculate number of visitors in MVC?
 
 
 Web API
