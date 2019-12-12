@@ -39,6 +39,7 @@ OOP
 19. Waht is difference between .NET and .NET Core?
 20. What is difference between TempData and ViewData?
 21. How to calculate number of visitors in MVC?
+22. What's new in .NET Core 3.x?
 
 
 Web API
