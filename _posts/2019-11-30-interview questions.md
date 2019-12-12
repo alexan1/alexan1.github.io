@@ -45,7 +45,7 @@ OOP
 25. Routing in MVC
 26. What is CLR?
 27. What is GAC?
-28. Can we use Unit Tess for private methods?
+28. Can we use Unit Tests for private methods?
 
 
 Web API
