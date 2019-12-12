@@ -14,3 +14,4 @@ Jon in US
 
 * December 11, 2019 [Infosys](https://www.infosys.com/)
 * December 3, 2019 [Wipro](https://www.wipro.com/)
+* December 3, [Ceridian](https://www.ceridian.com/)
