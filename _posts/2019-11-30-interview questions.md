@@ -14,6 +14,7 @@ OOP
 7. Didderence between Abstract class and interface
 8. What is SOLID?
 9. What is Singleton?
+10. What is Factory design pattern?
 
 
 .NET C#
