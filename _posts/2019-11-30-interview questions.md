@@ -41,6 +41,7 @@ OOP
 21. How to calculate number of visitors in MVC?
 22. What's new in .NET Core 3.x?
 23. How SignalR works?
+24. How to use ajax in MVC?
 
 
 Web API
