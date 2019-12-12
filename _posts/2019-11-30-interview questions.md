@@ -72,6 +72,7 @@ SQL
 15. Trnsaction isolation level
 16. What is better: use SP or queries in the code?
 17. Did you use triggers?
+18. What is default schema?
 
 
 JavaScript and Angular, React
