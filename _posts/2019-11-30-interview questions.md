@@ -43,6 +43,9 @@ OOP
 23. How SignalR works?
 24. How to use ajax in MVC?
 25. Routing in MVC
+26. What is CLR?
+27. What is GAC?
+28. Can we use Unit Tess for private methods?
 
 
 Web API
