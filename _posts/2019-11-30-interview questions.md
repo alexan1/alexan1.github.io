@@ -71,7 +71,7 @@ SQL
 16. What is better: use SP or queries in the code?
 
 
-JavaScript and Angular
+JavaScript and Angular, React
 1. Which JS Framoworks you used?
 2. How inheritance work in JS?
 3. How to bind data to field in jQuery?
@@ -79,6 +79,7 @@ JavaScript and Angular
 5. Difference between directive and expression in Angular
 6. Types of directives in Angular
 7. What is difference between Angular and AngularJS?
+8. What is virtual DOM in React?
 
 
 DevOps
