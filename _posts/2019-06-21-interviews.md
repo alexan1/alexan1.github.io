@@ -10,3 +10,7 @@ Job in Montreal
 * November 29, 2019 [explorance](https://explorance.com/) 
 * Nobember 27, 2019 [Solutions Abilis](https://www.abilis-solutions.com/) 
 
+Jon in US
+
+* December 11, 2019 [Infosys](https://www.infosys.com/)
+
