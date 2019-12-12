@@ -69,6 +69,7 @@ SQL
 14. Can SP return json?
 15. Trnsaction isolation level
 16. What is better: use SP or queries in the code?
+17. Did you use triggers?
 
 
 JavaScript and Angular, React
