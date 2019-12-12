@@ -62,11 +62,16 @@ SQL
 13. Types of temporary tables
 14. Can SP return json?
 15. Trnsaction isolation level
+16. What is better: use SP or queries in the code?
 
 
-JavaScript
+JavaScript and Angular
 1. Which JS Framoworks you used?
 2. How inheritance work in JS?
+3. How to bind data to field in jQuery?
+4. What is selection in jQuery?
+5. Difference between directive and expression in Angular
+6. Types of directives in Angular
 
 
 DevOps
