@@ -73,6 +73,7 @@ SQL
 16. What is better: use SP or queries in the code?
 17. Did you use triggers?
 18. What is default schema?
+19. What is CQRS and why to use it?
 
 
 JavaScript and Angular, React
