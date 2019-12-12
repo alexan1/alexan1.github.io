@@ -35,6 +35,9 @@ OOP
 15. Name of container in DI
 16. Why we use interfaces in DI?
 17. Difference betwwen ref and out parameters
+18. How to keep session in MVC Core?
+19. Waht is difference between .NET and .NET Core?
+20. What is difference between TempData and ViewData?
 
 
 Web API
