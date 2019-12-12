@@ -42,6 +42,7 @@ OOP
 22. What's new in .NET Core 3.x?
 23. How SignalR works?
 24. How to use ajax in MVC?
+25. Routing in MVC
 
 
 Web API
