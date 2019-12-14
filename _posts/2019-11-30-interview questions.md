@@ -80,6 +80,7 @@ SQL
 18. What is default schema?
 19. What is CQRS and why to use it?
 20. How to increasy queries perfomance?
+21. How to protect private information?
 
 
 JavaScript and Angular, React
