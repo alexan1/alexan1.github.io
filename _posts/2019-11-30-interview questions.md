@@ -55,6 +55,7 @@ Web API
 4. How to log every request?
 5. How to do autentification in Web Api?
 6. How to catch exeptions in Web Api?
+7. What is web api gateway?
 
 
 SQL
