@@ -78,6 +78,7 @@ SQL
 17. Did you use triggers?
 18. What is default schema?
 19. What is CQRS and why to use it?
+20. How to increasy queries perfomance?
 
 
 JavaScript and Angular, React
@@ -89,6 +90,10 @@ JavaScript and Angular, React
 6. Types of directives in Angular
 7. What is difference between Angular and AngularJS?
 8. What is virtual DOM in React?
+
+Azure
+1. What Azure services you have used?
+2. How to scale application?
 
 
 DevOps
