@@ -97,6 +97,9 @@ Azure
 1. What Azure services you have used?
 2. How to scale application?
 
+Mobile
+1. How to create mobile app having web application?
+
 
 DevOps
 1. How we can do CD?
