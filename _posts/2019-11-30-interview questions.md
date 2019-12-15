@@ -47,6 +47,7 @@ OOP
 27. What is GAC?
 28. Can we use Unit Tests for private methods?
 29. What is difference between .NET Core and .NET Standard?
+30. Did you TPL?
 
 
 Web API
