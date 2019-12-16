@@ -59,6 +59,7 @@ Web API
 6. How to catch exeptions in Web Api?
 7. What is Web API gateway?
 8. How to use autentifiacation in Web API?
+9. How to use MFA?
 
 
 SQL
