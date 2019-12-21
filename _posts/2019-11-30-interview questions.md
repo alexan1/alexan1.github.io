@@ -60,6 +60,9 @@ Web API
 7. What is Web API gateway?
 8. How to use autentifiacation in Web API?
 9. How to use MFA?
+10. How to use cache in Web API?
+11. How to clean up cache?
+12. Pading data in Web API.
 
 
 SQL
