@@ -87,6 +87,7 @@ SQL
 19. What is CQRS and why to use it?
 20. How to increasy queries perfomance?
 21. How to protect private information?
+22. What is main difference between SQL and NoSQL?
 
 
 JavaScript and Angular, React
