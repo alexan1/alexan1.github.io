@@ -53,6 +53,8 @@ OOP
 ASP.NET
 1. InProcess And OutOfProcess difference
 2. Run Application Pool under specific identity
+3. Session in ASP.NET
+4. What is cookieless session in asp.net?
 
 
 Web API
