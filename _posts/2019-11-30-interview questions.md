@@ -99,6 +99,7 @@ JavaScript and Angular, React
 6. Types of directives in Angular
 7. What is difference between Angular and AngularJS?
 8. What is virtual DOM in React?
+9. How to write some text to TextArea using JavaScript?
 
 Azure
 1. What Azure services you have used?
