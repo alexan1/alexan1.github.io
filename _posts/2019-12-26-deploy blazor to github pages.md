@@ -7,3 +7,9 @@ There are two [hosting models for Blazor](https://docs.microsoft.com/en-us/aspne
 2. Blazor WebAssembly
 
 Latest is client side model, so it can be hosted as static website, for example in [Azure Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website), [FireBase](https://firebase.google.com/) or [GitHub Pages](https://pages.github.com/).
+
+It's easy with GitHub Pages and it's free.
+
+If you need to deploy there you go to Settings -> GitHub Pages -> Source, but it doesn't work this way with Blazor. 
+
+Although Blazor is client side application, it need to be compiled before deployment. 
