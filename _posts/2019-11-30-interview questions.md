@@ -50,6 +50,9 @@ OOP
 30. Did you TPL?
 31. Multiple inherinace in C#?
 
+ASP.NET
+1. InProcess And OutOfProcess difference
+
 
 Web API
 1. Which verbs are used in Web API?
