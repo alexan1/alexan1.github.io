@@ -30,8 +30,7 @@ As template I used the [following example](https://github.com/fernandreu/blazor-
 
 And this is my <i>main.yml</i>:
 
-```
-  name: Build and Deploy
+```name: Build and Deploy
 on: [push]
 jobs:
   build-and-deploy:
@@ -51,5 +50,4 @@ jobs:
         BASE_BRANCH: master
         BRANCH: gh-pages # The branch the action should deploy to.
         FOLDER: build/BlazorGame/dist # The folder the action should deploy.
-        CLEAN: true
-  ```
+        CLEAN: true```
