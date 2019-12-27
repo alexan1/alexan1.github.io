@@ -14,4 +14,4 @@ If you need to deploy there you go to Settings -> GitHub Pages -> Source, but it
 
 Although Blazor is client side application, it need to be compiled before deployment. 
 
-So I opened project in VS, published to local folder, initialized git repo and published it on GitHub. And you need to add two files to repo: <i>404.html</i> file with a script that handles redirecting the request to the <i>index.html</i> page
+So I opened project in VS, published to local folder, initialized git repo and published it on GitHub. And you need to add two files to repo: <i>404.html</i> file with a script that handles redirecting the request to the <i>index.html</i> page. You can take this file [here](https://github.com/blazor-demo/blazor-demo.github.io/blob/master/404.html). Also you need to add empty file <i>.nojekyll</i>.
