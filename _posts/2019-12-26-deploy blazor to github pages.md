@@ -25,3 +25,5 @@ This is easy way to automate this using [GitHub Actions](https://github.com/feat
 And for this we have [GitHub Pages Deploy Action](https://github.com/marketplace/actions/deploy-to-github-pages) on Marketplace.
 
 To create Action you need create <i>.yml</i> file in your repo in folder <i>/.github/workflows/</i>.
+
+As template I used the [following example](https://github.com/fernandreu/blazor-pages/blob/master/.github/workflows/gh-pages.yml).
