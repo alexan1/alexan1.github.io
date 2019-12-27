@@ -64,3 +64,8 @@ But when I did it, it didn't work as expected: new branch created, but then:
 fatal: invalid reference: origin/gh-pages-people
 The deployment encountered an error.
 ```
+Easy fix for this: just do another commit and deployment is sucsessfull to already existed branch.
+
+And other comment: branch name should be exactly <b>gh-pages</b>, only in this case you can publish GitHub Pages.
+
+And now my [site](https://thepeoplerating.com/) is running. 
