@@ -54,4 +54,4 @@ jobs:
 
 How it works: your .NET Core project compiles, creates new branch and the deploy dist folder to this branch.
 
-You just need to add two files 
+You just need to add two files <i>404.html</i> and <i>.nojekyll</i> and setup GitHub Pages options.
