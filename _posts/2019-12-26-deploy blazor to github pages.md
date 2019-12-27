@@ -51,3 +51,7 @@ jobs:
         BRANCH: gh-pages # The branch the action should deploy to.
         FOLDER: build/BlazorGame/dist # The folder the action should deploy.
         CLEAN: true```
+
+How it works: your .NET Core project compiles, creates new branch and the deploy dist folder to this branch.
+
+You just need to add two files 
