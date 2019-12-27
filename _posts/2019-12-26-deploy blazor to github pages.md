@@ -27,3 +27,29 @@ And for this we have [GitHub Pages Deploy Action](https://github.com/marketplace
 To create Action you need create <i>.yml</i> file in your repo in folder <i>/.github/workflows/</i>.
 
 As template I used the [following example](https://github.com/fernandreu/blazor-pages/blob/master/.github/workflows/gh-pages.yml).
+
+And this is my <i>main.yml</i>:
+
+<code>
+  name: Build and Deploy
+on: [push]
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 3.1.100
+    - name: Publish with dotnet
+      run: dotnet publish --configuration Release --output build
+    - name: Deploy to Github Pages
+      uses: JamesIves/github-pages-deploy-action@releases/v3
+      with:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        BASE_BRANCH: master
+        BRANCH: gh-pages # The branch the action should deploy to.
+        FOLDER: build/BlazorGame/dist # The folder the action should deploy.
+        CLEAN: true
+  </code>
