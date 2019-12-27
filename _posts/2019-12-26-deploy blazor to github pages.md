@@ -57,3 +57,10 @@ jobs:
 How it works: your .NET Core project compiles, creates new branch and the deploy dist folder to this branch.
 
 You just need to add two files <i>404.html</i> and <i>.nojekyll</i> and setup GitHub Pages options.
+
+But when I did it, it didn't work as expected: new branch created, but then:
+
+```
+fatal: invalid reference: origin/gh-pages-people
+The deployment encountered an error.
+```
