@@ -13,3 +13,5 @@ It's easy with GitHub Pages and it's free.
 If you need to deploy there you go to Settings -> GitHub Pages -> Source, but it doesn't work this way with Blazor. 
 
 Although Blazor is client side application, it need to be compiled before deployment. 
+
+So I opened project in VS, published to local folder, initialized git repo and published it on GitHub. And you need to add two files to repo: <i>404.html</i> file with a script that handles redirecting the request to the <i>index.html</i> page
