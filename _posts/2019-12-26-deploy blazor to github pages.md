@@ -23,3 +23,5 @@ Okay, I did this and it's working. But it includes several steps to perform when
 This is easy way to automate this using [GitHub Actions](https://github.com/features/actions).
 
 And for this we have [GitHub Pages Deploy Action](https://github.com/marketplace/actions/deploy-to-github-pages) on Marketplace.
+
+To create Action you need create <i>.yml</i> file in your repo in folder <i>/.github/workflows/</i>.
