@@ -49,6 +49,7 @@ OOP
 29. What is difference between .NET Core and .NET Standard?
 30. Did you use TPL?
 31. Multiple inherinace in C#?
+32. When you prefer ADO.NET or ORM (EF)?
 
 ASP.NET
 1. InProcess And OutOfProcess difference
