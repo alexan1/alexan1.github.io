@@ -58,6 +58,7 @@ ASP.NET
 5. What is difference between HttpHandler and HttpModule?
 6. Did you use SSO?
 7. Exception handling in ASP.NET
+8. What is minifing and bundling files?
 
 
 Web API
