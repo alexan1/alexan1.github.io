@@ -55,6 +55,7 @@ ASP.NET
 2. Run Application Pool under specific identity
 3. Session in ASP.NET
 4. What is cookieless session in asp.net?
+5. What is difference between HttpHandler and HttpModule?
 
 
 Web API
