@@ -57,6 +57,7 @@ ASP.NET
 4. What is cookieless session in asp.net?
 5. What is difference between HttpHandler and HttpModule?
 6. Did you use SSO?
+7. Exception handling in ASP.NET
 
 
 Web API
