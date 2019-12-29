@@ -51,6 +51,7 @@ OOP
 31. Multiple inherinace in C#?
 32. When you prefer ADO.NET or ORM (EF)?
 
+
 ASP.NET
 1. InProcess And OutOfProcess difference
 2. Run Application Pool under specific identity
@@ -60,6 +61,7 @@ ASP.NET
 6. Did you use SSO?
 7. Exception handling in ASP.NET
 8. What is minifing and bundling files?
+9.What is the difference between Web farm and Web Garden?
 
 
 Web API
@@ -114,9 +116,11 @@ JavaScript and Angular, React
 8. What is virtual DOM in React?
 9. How to write some text to TextArea using JavaScript?
 
+
 Azure
 1. What Azure services you have used?
 2. How to scale application?
+
 
 Mobile
 1. How to create mobile app having web application?
@@ -124,6 +128,7 @@ Mobile
 
 DevOps
 1. How we can do CD?
+
 
 Agile
 1. Agile roles
