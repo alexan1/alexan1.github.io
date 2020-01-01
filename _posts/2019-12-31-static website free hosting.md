@@ -8,6 +8,7 @@ My requirements:
 1. Unlimited space
 2. Custom domain name
 3. Content: HTML, JavaScript, WebAssemly
+4. Free
 
 Please see the following list of platforms:
 1. [GitHub Pages](https://pages.github.com/)
