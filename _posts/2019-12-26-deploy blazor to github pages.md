@@ -6,7 +6,7 @@ There are two [hosting models for Blazor](https://docs.microsoft.com/en-us/aspne
 1. Blazor Server
 2. Blazor WebAssembly
 
-Latest is client side model, so it can be hosted as static website, for example in [Azure Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website), [FireBase](https://firebase.google.com/) or [GitHub Pages](https://pages.github.com/).
+Latest is client side model, so it can be hosted as static website, for example in [Azure Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website), [FireBase](https://firebase.google.com/), [GitHub Pages](https://pages.github.com/) or [other platforms](https://alexsolution.com/static-website-free-hosting/).
 
 It's easy with GitHub Pages and it's free.
 
@@ -71,4 +71,4 @@ Easy fix for this: just do another commit and deployment is sucsessfull to alrea
 
 And other comment: branch name should be exactly <b>gh-pages</b>, only in this case you can publish GitHub Pages.
 
-And now my [site](https://thepeoplerating.com/) is running. 
+And now my [site](https://thepeoplerating.com/) is up and running. 
