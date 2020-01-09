@@ -53,6 +53,7 @@ OOP
 33. What is delegate?
 34. What is difference between Func and Action delegate?
 35. What is difference between Predicate, Converter and Comparison delegate?
+36. What is anonymous types in c#?
 
 
 ASP.NET
