@@ -119,6 +119,7 @@ JavaScript and Angular, React
 7. What is difference between Angular and AngularJS?
 8. What is virtual DOM in React?
 9. How to write some text to TextArea using JavaScript?
+10. how to call web api from angular?
 
 
 Azure
