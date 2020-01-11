@@ -7,6 +7,7 @@ hidden: true
 Job in Montreal
 
 * January 10, 2020 [Nuance](https://www.nuance.com/)
+* January 6, 2020 [Meritek](https://meritek.ca/)
 * December 5, 2019 [Société Générale](https://www.societegenerale.com/)
 * November 29, 2019 [explorance](https://explorance.com/) 
 * November 28 (skype) [FX innovation](https://www.fxinnovation.com/)
