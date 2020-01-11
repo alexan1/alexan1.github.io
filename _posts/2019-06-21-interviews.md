@@ -14,6 +14,7 @@ Job in Montreal
 
 Jon in US
 
+* January 9, 2020 [Accionlabs](https://www.accionlabs.com/)
 * January 8, 2020 [Cognizant](https://www.cognizant.com/)
 * December 11, 2019 [Infosys](https://www.infosys.com/)
 * December 3, 2019 [Wipro](https://www.wipro.com/)
