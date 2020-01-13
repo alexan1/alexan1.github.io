@@ -55,7 +55,6 @@ OOP
 35. What is difference between Predicate, Converter and Comparison delegate?
 36. What is anonymous types in c#?
 
-
 ASP.NET
 1. InProcess And OutOfProcess difference
 2. Run Application Pool under specific identity
@@ -65,7 +64,8 @@ ASP.NET
 6. Did you use SSO?
 7. Exception handling in ASP.NET
 8. What is minifing and bundling files?
-9.What is the difference between Web farm and Web Garden?
+9. What is the difference between Web farm and Web Garden?
+10. How to send HttpWebRequest with Client Certificates?
 
 
 Web API
