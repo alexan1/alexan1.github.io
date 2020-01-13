@@ -15,6 +15,7 @@ OOP
 8. What is SOLID?
 9. What is Singleton?
 10. What is Factory design pattern?
+11. Differenve between Dependency Inversion and Dependency Injection?
 
 
 .NET C#
@@ -54,6 +55,10 @@ OOP
 34. What is difference between Func and Action delegate?
 35. What is difference between Predicate, Converter and Comparison delegate?
 36. What is anonymous types in c#?
+37. How to parce Json?
+38. How to prevent double submission in MVC?
+39. How to validate information in MVC?
+
 
 ASP.NET
 1. InProcess And OutOfProcess difference
@@ -66,6 +71,7 @@ ASP.NET
 8. What is minifing and bundling files?
 9. What is the difference between Web farm and Web Garden?
 10. How to send HttpWebRequest with Client Certificates?
+
 
 Web API
 1. Which verbs are used in Web API?
@@ -81,6 +87,8 @@ Web API
 11. How to clean up cache?
 12. Pading data in Web API.
 13. In which .NET version Wen API started?
+14. How to get data from Web Api?
+
 
 SQL
 1. How to debug and fix query or SP?
