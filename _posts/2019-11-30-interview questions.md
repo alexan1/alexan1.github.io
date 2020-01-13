@@ -58,6 +58,7 @@ OOP
 37. How to parce Json?
 38. How to prevent double submission in MVC?
 39. How to validate information in MVC?
+40. What rules you have to write clean code?
 
 
 ASP.NET
@@ -71,6 +72,7 @@ ASP.NET
 8. What is minifing and bundling files?
 9. What is the difference between Web farm and Web Garden?
 10. How to send HttpWebRequest with Client Certificates?
+11. How to secure you web application?
 
 
 Web API
