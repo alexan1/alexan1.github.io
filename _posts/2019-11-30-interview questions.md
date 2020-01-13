@@ -59,6 +59,7 @@ OOP
 38. How to prevent double submission in MVC?
 39. How to validate information in MVC?
 40. What rules you have to write clean code?
+41. How to use GPU in .NET?
 
 
 ASP.NET
