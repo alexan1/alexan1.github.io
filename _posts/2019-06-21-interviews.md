@@ -17,6 +17,7 @@ Job in Montreal
 
 Jon in US
 
+* January 13, 2020 Cognizant(NBL) technical
 * January 13, 2020 Citizen Bank (Wipro) technical
 * January 9, 2020 [Accionlabs](https://www.accionlabs.com/)
 * January 8, 2020 [Cognizant](https://www.cognizant.com/)
