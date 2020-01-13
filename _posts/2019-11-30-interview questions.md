@@ -67,7 +67,6 @@ ASP.NET
 9. What is the difference between Web farm and Web Garden?
 10. How to send HttpWebRequest with Client Certificates?
 
-
 Web API
 1. Which verbs are used in Web API?
 2. Can we use HttpPost to get info?
@@ -82,7 +81,6 @@ Web API
 11. How to clean up cache?
 12. Pading data in Web API.
 13. In which .NET version Wen API started?
-
 
 SQL
 1. How to debug and fix query or SP?
@@ -107,6 +105,7 @@ SQL
 20. How to increasy queries perfomance?
 21. How to protect private information?
 22. What is main difference between SQL and NoSQL?
+23. What is transaction isolation level?
 
 
 JavaScript and Angular, React
