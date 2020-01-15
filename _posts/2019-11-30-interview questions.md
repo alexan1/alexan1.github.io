@@ -60,6 +60,8 @@ OOP
 39. How to validate information in MVC?
 40. What rules you have to write clean code?
 41. How to use GPU in .NET?
+42. What is deadlock?
+43. How to prevent deadlock?
 
 
 ASP.NET
