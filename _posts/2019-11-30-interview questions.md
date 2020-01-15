@@ -76,6 +76,7 @@ ASP.NET
 9. What is the difference between Web farm and Web Garden?
 10. How to send HttpWebRequest with Client Certificates?
 11. How to secure you web application?
+12. How works ASP.NET Core Blazor JavaScript interop?
 
 
 Web API
