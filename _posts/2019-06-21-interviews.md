@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal
 
+* January 15, 2020 Nuance technical
 * January 10, 2020 [Nuance](https://www.nuance.com/)
 * January 6, 2020 [Meritek](https://meritek.ca/)
 * December 27, 2019 [NTT Data](https://us.nttdata.com/en/)
