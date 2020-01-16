@@ -77,6 +77,7 @@ ASP.NET
 10. How to send HttpWebRequest with Client Certificates?
 11. How to secure you web application?
 12. How works ASP.NET Core Blazor JavaScript interop?
+13. How to preveny SQL injection in EF?
 
 
 Web API
