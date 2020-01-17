@@ -8,7 +8,7 @@ Job in Montreal
 
 * January 17, 2020 person [Logibec](https://www.logibec.com/)
 * January 15, 2020 video (MSTeam) Nuance technical
-* January 10, 2020 video (MS Team)[Nuance](https://www.nuance.com/)
+* January 10, 2020 video (MS Team) [Nuance](https://www.nuance.com/)
 * January 6, 2020 phone [Meritek](https://meritek.ca/)
 * December 27, 2019 video (Webex) [NTT Data](https://us.nttdata.com/en/) Halifax
 * December 5, 2019 person [TEKsystems](https://www.teksystems.com/)
