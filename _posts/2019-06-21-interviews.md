@@ -18,7 +18,7 @@ Job in Montreal
 * November 28 video (skype) [FX innovation](https://www.fxinnovation.com/)
 * Nobember 27, 2019 person [Solutions Abilis](https://www.abilis-solutions.com/) 
 
-Jon in US
+Job in US
 
 * January 13, 2020 Cognizant (NBL) technical
 * January 13, 2020 Citizen Bank (Wipro) technical
