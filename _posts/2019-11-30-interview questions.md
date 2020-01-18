@@ -62,6 +62,8 @@ OOP
 41. How to use GPU in .NET?
 42. What is deadlock?
 43. How to prevent deadlock?
+44. Weite Fibonacci function
+45. Which data structure use for file system modeling?
 
 
 ASP.NET
