@@ -18,6 +18,7 @@ Job in Montreal
 * November 29, 2019 person [explorance](https://explorance.com/) 
 * November 28 video (skype) [FX innovation](https://www.fxinnovation.com/)
 * Nobember 27, 2019 person [Solutions Abilis](https://www.abilis-solutions.com/) 
+* June 26, 2019 person [Bell](https://www.bell.ca/) 
 
 Job in US
 
