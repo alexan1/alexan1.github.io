@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal
 
+* January 20, 2020 phone [Coveo](https://www.coveo.com/)
 * January 17, 2020 person [Logient](https://www.logient.com/)
 * January 17, 2020 person [Logibec](https://www.logibec.com/)
 * January 15, 2020 video (MSTeam) Nuance technical
