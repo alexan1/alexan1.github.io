@@ -15,6 +15,7 @@ Job in Montreal
 * December 27, 2019 video (Webex) [NTT Data](https://us.nttdata.com/en/) Halifax
 * December 5, 2019 person [TEKsystems](https://www.teksystems.com/)
 * December 5, 2019 person [Société Générale](https://www.societegenerale.com/)
+* December 3, Zoom [Ceridan](https://www.ceridian.com/) remote to Toronto
 * November 29, 2019 person [explorance](https://explorance.com/) 
 * November 28 video (skype) [FX innovation](https://www.fxinnovation.com/)
 * Nobember 27, 2019 person [Solutions Abilis](https://www.abilis-solutions.com/)
