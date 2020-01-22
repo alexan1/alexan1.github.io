@@ -22,6 +22,7 @@ Job in Montreal
 * October 31, 2019 person [Genetec](https://www.genetec.com/)
 * October 30, 2019 person Bell Montreal Jean Talon
 * September 4, 2019 person Morgan Stanley
+* August 21, 2019 person [Amaris Consulting](https://www.amaris.com/)
 * August 5, 2019 phone [Morgan Stanley](https://www.morganstanley.com/)
 * July 22, 2019, person [Canadian Space Agency](https://www.asc-csa.gc.ca/)
 * June 26, 2019 person [Bell](https://www.bell.ca/) downtown 
