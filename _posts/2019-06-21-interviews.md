@@ -20,6 +20,7 @@ Job in Montreal
 * Nobember 27, 2019 person [Solutions Abilis](https://www.abilis-solutions.com/) 
 * Nobember 12, 2019 person Bell Ottawa 
 * October 30, 2019 person Bell Montreal Jean Talon
+* July 22, 2019, person [Canadian Space Agency](https://www.asc-csa.gc.ca/)
 * June 26, 2019 person [Bell](https://www.bell.ca/) downtown 
 
 Job in US
