@@ -17,7 +17,7 @@ Job in Montreal
 * December 5, 2019 person [Société Générale](https://www.societegenerale.com/)
 * November 29, 2019 person [explorance](https://explorance.com/) 
 * November 28 video (skype) [FX innovation](https://www.fxinnovation.com/)
-* Nobember 27, 2019 person [Solutions Abilis](https://www.abilis-solutions.com/) *
+* Nobember 27, 2019 person [Solutions Abilis](https://www.abilis-solutions.com/)
 * Nobember 12, 2019 person Bell Ottawa 
 * October 31, 2019 person [Genetec](https://www.genetec.com/)
 * October 30, 2019 person Bell Montreal Jean Talon
