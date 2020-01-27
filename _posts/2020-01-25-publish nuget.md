@@ -21,4 +21,4 @@ And you can't just delete package from Nuget Gallery, you can only unkist it and
 
 Just to check how versioning works, I increased version again to 1.0.3 and published again.
 
-And now I have 2 versions od the [same package](https://www.nuget.org/packages/WikiDataLib/).
+And now I have [package](https://www.nuget.org/packages/WikiDataLib/) (two versions).
