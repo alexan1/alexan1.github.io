@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal
 
+* January 23, 2020 phone [Diversico](http://www.diversico.ca/)
 * January 23, 2020 person [Hydro-Québec](http://www.hydroquebec.com/)
 * January 20, 2020 phone [Coveo](https://www.coveo.com/)
 * January 17, 2020 person [Logient](https://www.logient.com/)
