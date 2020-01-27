@@ -9,4 +9,4 @@ It's very simple actually. Just followed [this tutorial](https://docs.microsoft.
 
 Okay, I did ir manually, but I want to automate process of updating library version.
 
-For this you can use or [Azure Pipelines](https://medium.com/@yanxiaodi/using-azure-devops-pipelines-to-publish-the-nuget-package-from-github-repo-fb58be4e9be8) or [https://brainlesscoder.com/2019/12/25/publishing-net-standard-nuget-package-with-github-actions/).
+For this you can use or [Azure Pipelines](https://medium.com/@yanxiaodi/using-azure-devops-pipelines-to-publish-the-nuget-package-from-github-repo-fb58be4e9be8) or [GitHub Actions](https://brainlesscoder.com/2019/12/25/publishing-net-standard-nuget-package-with-github-actions/).
