@@ -13,4 +13,4 @@ So you need to do the following:
 
 1. Replace package reference in your project to 3.2.0-preview1.20073.1
 2. Do some modification in `Program.cs`.
-3. Delete `Startup.cs'.
+3. Delete `Startup.cs`.
