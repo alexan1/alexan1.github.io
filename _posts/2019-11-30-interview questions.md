@@ -80,6 +80,7 @@ ASP.NET
 11. How to secure you web application?
 12. How works ASP.NET Core Blazor JavaScript interop?
 13. How to preveny SQL injection in EF?
+14. How to integrate backend with frontend?
 
 
 Web API
