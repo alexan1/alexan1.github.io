@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal
 
+* January 30, 2020 person [Mango Software Inc.](https://www.mango.co/)
 * January 29, 2020 phone [Broadsign](https://broadsign.com/)
 * January 23, 2020 phone [Diversico](http://www.diversico.ca/)
 * January 23, 2020 person [Hydro-Québec](http://www.hydroquebec.com/)
