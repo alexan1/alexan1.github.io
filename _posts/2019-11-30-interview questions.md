@@ -100,7 +100,7 @@ Web API
 14. How to get data from Web Api?
 
 
-SQL
+DB and SQL
 1. How to debug and fix query or SP?
 2. difference between primary key and unique key
 3. difference between primary key and primary index
@@ -124,6 +124,7 @@ SQL
 21. How to protect private information?
 22. What is main difference between SQL and NoSQL?
 23. What is transaction isolation level?
+24. What is difference between partition key and index in MongoDB?
 
 
 JavaScript and Angular, React
