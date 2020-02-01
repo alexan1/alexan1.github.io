@@ -9,7 +9,7 @@ Job in Montreal
 * January 30, 2020 person [Mango Software Inc.](https://www.mango.co/)
 * January 30, 2020 person [Quantum](https://www.quantum.ca/) recruiting agency
 * January 29, 2020 phone [Broadsign](https://broadsign.com/)
-* January 23, 2020 phone [Diversico](http://www.diversico.ca/)
+* January 27, 2020 phone [Diversico](http://www.diversico.ca/)
 * January 23, 2020 person [Hydro-Québec](http://www.hydroquebec.com/)
 * January 20, 2020 phone [Coveo](https://www.coveo.com/)
 * January 17, 2020 person [Logient](https://www.logient.com/)
