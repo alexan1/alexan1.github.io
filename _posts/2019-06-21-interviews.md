@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal
 
+* February 4, 2020 person [Belron Canada](https://www.belroncanada.com/)
 * January 30, 2020 person [Mango Software Inc.](https://www.mango.co/)
 * January 30, 2020 person [Quantum](https://www.quantum.ca/) recruiting agency
 * January 29, 2020 phone [Broadsign](https://broadsign.com/)
