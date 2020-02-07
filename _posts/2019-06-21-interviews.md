@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal
 
+* February 7, 2020 phone [BGR Informatique](https://www.bgrinformatique.com/)
 * February 6, 2020 phone [NeoSynergix](https://neosynergix.com/)
 * February 5, 2020 person [Industrielle Alliance](https://ia.ca/) (TEKsystems)
 * February 4, 2020 person [Belron Canada](https://www.belroncanada.com/)
