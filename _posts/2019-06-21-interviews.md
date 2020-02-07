@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal
 
+* February 6, 2020 phone [NeoSynergix](https://neosynergix.com/)
 * February 5, 2020 person [Industrielle Alliance](https://ia.ca/) (TEKsystems)
 * February 4, 2020 person [Belron Canada](https://www.belroncanada.com/)
 * January 30, 2020 person [Mango Software Inc.](https://www.mango.co/)
