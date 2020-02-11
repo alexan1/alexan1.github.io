@@ -64,6 +64,7 @@ OOP
 43. How to prevent deadlock?
 44. Weite Fibonacci function
 45. Which data structure use for file system modeling?
+46. What do you like in C#?
 
 
 ASP.NET
@@ -139,6 +140,7 @@ JavaScript and Angular, React
 8. What is virtual DOM in React?
 9. How to write some text to TextArea using JavaScript?
 10. how to call web api from angular?
+11. What do you like in JavaScript?
 
 
 Azure
