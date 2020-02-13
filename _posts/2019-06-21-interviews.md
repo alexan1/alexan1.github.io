@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal
 
+* February 11, 2020 person [Bédard Ressources](https://www.bedardressources.com/)
 * February 11, 2020 phone [Desjardins](https://www.desjardins.com/)
 * February 11, 2020 skype [Cofomo](https://www.cofomo.com/)
 * February 10, 2020 person [Orckestra](https://www.orckestra.com/)
