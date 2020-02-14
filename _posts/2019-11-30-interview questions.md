@@ -16,6 +16,7 @@ OOP
 9. What is Singleton?
 10. What is Factory design pattern?
 11. Differenve between Dependency Inversion and Dependency Injection?
+12. Why you need Singleton in your application?
 
 
 .NET C#
@@ -82,6 +83,7 @@ ASP.NET
 12. How works ASP.NET Core Blazor JavaScript interop?
 13. How to preveny SQL injection in EF?
 14. How to integrate backend with frontend?
+15. How you use RabitMQ?
 
 
 Web API
