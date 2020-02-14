@@ -46,6 +46,7 @@ Job in Montreal
 
 Job in US
 
+* February 13, 2020 phone [Humana](https://www.humana.com/)
 * January 13, 2020 Cognizant (NBL) technical
 * January 13, 2020 Citizen Bank (Wipro) technical
 * January 9, 2020 [Accionlabs](https://www.accionlabs.com/)
