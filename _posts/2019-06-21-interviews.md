@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal
 
+* February 14, 2020 person [TMC North America](https://tmc-employeneurship.com/)
 * February 13, 2020 person [Mobi724](http://www.mobi724.com/)
 * February 12, 2020 person [Bédard Ressources](https://www.bedardressources.com/)
 * February 11, 2020 phone [Desjardins](https://www.desjardins.com/)
@@ -46,6 +47,7 @@ Job in Montreal
 
 Job in US
 
+* February 14, 2020 phone [Tech Mahindra](https://www.techmahindra.com/)
 * February 13, 2020 phone [Humana](https://www.humana.com/)
 * January 13, 2020 Cognizant (NBL) technical
 * January 13, 2020 Citizen Bank (Wipro) technical
