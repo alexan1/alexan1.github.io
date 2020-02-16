@@ -3,7 +3,7 @@ layout: post
 title: job for freelancer
 hidden: true
 ---
-Find the client online and work from home -- looks like a very attractive idea for freelancer.
+Find the client online and work from home -- looks like a very attractive idea.
 
 You can find [comprehensive list of sites for freelacers](https://blog.payoneer.com/freelancers/it-programming/20-job-sites-for-freelance-programmers-and-designers/).
 
