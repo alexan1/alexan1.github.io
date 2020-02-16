@@ -3,8 +3,9 @@ layout: post
 title: job for freelancer
 hidden: true
 ---
+Find the client online and work from home -- looks like a very attractive idea for freelancer.
 
-There are [many sites](https://blog.payoneer.com/freelancers/it-programming/20-job-sites-for-freelance-programmers-and-designers/), where freelance can find a client and job.
+You can find [comprehensive list of sites for freelacers](https://blog.payoneer.com/freelancers/it-programming/20-job-sites-for-freelance-programmers-and-designers/).
 
 Here are just some, which I lookes:
 
