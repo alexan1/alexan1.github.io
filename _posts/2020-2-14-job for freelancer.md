@@ -15,3 +15,4 @@ Here are just some, which I lookes:
 5. [fiverr](https://www.fiverr.com/)
 6. [Scalable Path](https://www.scalablepath.com/)
 7. [golance](https://golance.com/)
+8. [guru](https://www.guru.com/)
