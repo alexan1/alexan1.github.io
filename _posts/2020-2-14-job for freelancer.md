@@ -7,7 +7,7 @@ Find the client online and work from home -- looks like a very attractive idea f
 
 You can find [comprehensive list of sites for freelacers](https://blog.payoneer.com/freelancers/it-programming/20-job-sites-for-freelance-programmers-and-designers/).
 
-Here are just some, which I lookes:
+Let's look at these sites:
 
 1. [Upwork](https://www.upwork.com/)
 2. [Toptal](https://www.toptal.com/)
