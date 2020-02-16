@@ -14,6 +14,8 @@ Let's look at these sites:
 Probably it's the most popular freelance resource. You can find many projects here.
 Problem that it's difficult to find good paying job, because there are so many developers, who are ready to work for $5/h.
 
+And Upwork takes 20% fee from you earning. Also you need connection to apply and you need to buy them (there were free some time ago).
+
 2. [Toptal](https://www.toptal.com/)
 3. [Arc.dev](https://arc.dev/)
 4. [freelancer](https://www.freelancer.com/)
