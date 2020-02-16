@@ -10,6 +10,9 @@ You can find [comprehensive list of sites for freelacers](https://blog.payoneer.
 Let's look at these sites:
 
 1. [Upwork](https://www.upwork.com/)
+
+Probably it's the most popular freelance resource. 
+
 2. [Toptal](https://www.toptal.com/)
 3. [Arc.dev](https://arc.dev/)
 4. [freelancer](https://www.freelancer.com/)
