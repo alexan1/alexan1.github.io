@@ -4,8 +4,9 @@ title: interviews
 hidden: true
 ---
 
-Job in Montreal
+Job in Montreal and in Canada
 
+* February 18, 2020 phone [Enbridge](https://www.enbridge.com/) Calgary
 * February 14, 2020 person [TMC North America](https://tmc-employeneurship.com/)
 * February 13, 2020 person [Mobi724](http://www.mobi724.com/)
 * February 12, 2020 person [Bédard Ressources](https://www.bedardressources.com/)
