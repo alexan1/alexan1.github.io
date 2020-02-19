@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* February 19, 2020 zoom [DMI](https://dminc.com/)
 * February 18, 2020 phone [Enbridge](https://www.enbridge.com/) Calgary
 * February 14, 2020 person [TMC North America](https://tmc-employeneurship.com/)
 * February 13, 2020 person [Mobi724](http://www.mobi724.com/)
