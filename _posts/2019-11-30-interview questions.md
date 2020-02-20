@@ -84,6 +84,8 @@ ASP.NET
 13. How to preveny SQL injection in EF?
 14. How to integrate backend with frontend?
 15. How you use RabitMQ?
+16. Why .NET Core  is cross platform?
+17. Difference .NET Core and .NET Framework
 
 
 Web API
