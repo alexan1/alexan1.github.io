@@ -40,6 +40,7 @@ Job in Montreal and in Canada
 * October 31, 2019 person [Genetec](https://www.genetec.com/)
 * October 30, 2019 person Bell Montreal Jean Talon
 * October 2, 2019 person [Staples](https://www.staples.ca/)
+* October 2, 2019 pрщту [SSENSE](https://www.ssense.com/)
 * September 4, 2019 person Morgan Stanley
 * August 21, 2019 person [Amaris Consulting](https://www.amaris.com/)
 * August 5, 2019 phone [Morgan Stanley](https://www.morganstanley.com/)
