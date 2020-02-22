@@ -104,6 +104,8 @@ Web Services, Web API, WCF
 12. Pading data in Web API.
 13. In which .NET version Wen API started?
 14. How to get data from Web Api?
+15. Difference between WCF and Web API
+16. How to use WCF without reference it?
 
 
 DB and SQL
