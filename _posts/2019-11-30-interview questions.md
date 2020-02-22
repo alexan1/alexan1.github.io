@@ -136,6 +136,7 @@ DB and SQL
 25. How to use MongoDB in your application?
 26. Did you use cursor?
 27. Did you use triggers?
+28. How to optimize SP perfomance?
 
 
 JavaScript and Angular, React
