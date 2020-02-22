@@ -17,6 +17,7 @@ OOP
 10. What is Factory design pattern?
 11. Differenve between Dependency Inversion and Dependency Injection?
 12. Why you need Singleton in your application?
+13. Did you use Strategy pattern?
 
 
 .NET C#
