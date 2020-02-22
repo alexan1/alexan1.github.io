@@ -88,6 +88,7 @@ ASP.NET
 15. How you use RabitMQ?
 16. Why .NET Core  is cross platform?
 17. Difference .NET Core and .NET Framework
+18. What is responsice design?
 
 
 Web Services, Web API, WCF
@@ -107,6 +108,7 @@ Web Services, Web API, WCF
 14. How to get data from Web Api?
 15. Difference between WCF and Web API
 16. How to use WCF without reference it?
+17. Which tools you use for debugging http request?
 
 
 DB and SQL
