@@ -89,6 +89,7 @@ ASP.NET
 16. Why .NET Core  is cross platform?
 17. Difference .NET Core and .NET Framework
 18. What is responsice design?
+19. Did you use accessibility design?
 
 
 Web Services, Web API, WCF
