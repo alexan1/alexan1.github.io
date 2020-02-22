@@ -141,6 +141,7 @@ DB and SQL
 26. Did you use cursor?
 27. Did you use triggers?
 28. How to optimize SP perfomance?
+29. What is difference between clastered and non-clastered index?
 
 
 JavaScript and Angular, React
