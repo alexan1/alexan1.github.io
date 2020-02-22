@@ -110,6 +110,7 @@ Web Services, Web API, WCF
 15. Difference between WCF and Web API
 16. How to use WCF without reference it?
 17. Which tools you use for debugging http request?
+18. Why you need use ConfigureAwait?
 
 
 DB and SQL
