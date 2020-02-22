@@ -50,6 +50,7 @@ Job in Montreal and in Canada
 
 Job in US
 
+* February 22, 2020 webex [Cognizant]
 * February 19, 2020 zoom [Mphasis](https://www.mphasis.com/) for Infosys
 * February 14, 2020 phone [Tech Mahindra](https://www.techmahindra.com/)
 * February 13, 2020 phone [Humana](https://www.humana.com/)
