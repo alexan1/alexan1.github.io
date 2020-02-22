@@ -68,6 +68,7 @@ OOP
 44. Weite Fibonacci function
 45. Which data structure use for file system modeling?
 46. What do you like in C#?
+47. Difference between Managed and Unmanaged code in .NET
 
 
 ASP.NET
