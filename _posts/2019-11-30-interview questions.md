@@ -134,6 +134,8 @@ DB and SQL
 23. What is transaction isolation level?
 24. What is difference between partition key and index in MongoDB?
 25. How to use MongoDB in your application?
+26. Did you use cursor?
+27. Did you use triggers?
 
 
 JavaScript and Angular, React
