@@ -89,7 +89,7 @@ ASP.NET
 17. Difference .NET Core and .NET Framework
 
 
-Web API
+Web Services, Web API, WCF
 1. Which verbs are used in Web API?
 2. Can we use HttpPost to get info?
 3. Can we use Get to rend request in body?
