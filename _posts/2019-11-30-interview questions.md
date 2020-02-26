@@ -92,6 +92,7 @@ ASP.NET
 17. Difference .NET Core and .NET Framework
 18. What is responsice design?
 19. Did you use accessibility design?
+20. Which tools you can use for bindling? 
 
 
 Web Services, Web API, WCF
