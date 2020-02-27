@@ -6,7 +6,8 @@ hidden: true
 
 Job in Montreal and in Canada
 
-* February 29, 2020 phone Enbridge
+* February 2t, 2020 phone [SOTI](https://www.soti.net/) Mississauga
+* February 26, 2020 phone Enbridge
 * February 24, 2020 person Morneau Shepell
 * February 21, 2020 person [Morneau Shepell](https://www.morneaushepell.com/)
 * February 18, 2020 phone [Enbridge](https://www.enbridge.com/) Calgary
