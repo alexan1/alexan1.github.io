@@ -37,3 +37,6 @@ This site is similar to Toptal. To get there you should do difficult online test
 10. [twine](https://www.twine.fm/)
 11. [prestoexperts](https://www.prestoexperts.com/)
 12. [expert360](https://expert360.com/)
+13. [goLance](https://golance.com/)
+
+[Is goLance The Next Netflix of Freelancing?](https://medium.com/@nebojsa.todorovic/is-golance-the-next-netflix-of-freelancing-be7b1a98fa80)
