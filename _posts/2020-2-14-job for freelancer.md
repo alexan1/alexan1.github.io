@@ -37,6 +37,9 @@ This site is similar to Toptal. To get there you should do difficult online test
 [Fiverr Review: Why You Should NEVER Use Fiverr For Freelance Work](https://thefreelanceeffect.com/fiverr-review/)
 
 6. [Scalable Path](https://www.scalablepath.com/)
+
+[Pricing, How to Post, Key Information, and FAQs](http)s://www.betterteam.com/scalable-path)
+
 7. [golance](https://golance.com/)
 8. [guru](https://www.guru.com/)
 9. [peopleperhour](https://www.peopleperhour.com/)
