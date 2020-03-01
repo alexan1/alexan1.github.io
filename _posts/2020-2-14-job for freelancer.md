@@ -20,6 +20,8 @@ And Upwork takes 20% fee from you earning. Also you need connection to apply and
 
 You can get much higher rates there, maybe around $60-70/hour. But it's difficult to became Toptal freelancer. They have very strict acceptance policy. Only 3% of appplicants can pass tests. Toptal even check if your English is good enough for communication with clients.
 
+[Toptal experience](https://medium.com/@joe.vqhoa/my-experience-with-toptal-dfdc0df077a)
+
 3. [Arc.dev](https://arc.dev/)
 4. [freelancer](https://www.freelancer.com/)
 5. [fiverr](https://www.fiverr.com/)
