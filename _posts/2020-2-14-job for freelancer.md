@@ -41,11 +41,11 @@ This site is similar to Toptal. To get there you should do difficult online test
 [Pricing, How to Post, Key Information, and FAQs](http)s://www.betterteam.com/scalable-path)
 
 7. [golance](https://golance.com/)
+
+[Is goLance The Next Netflix of Freelancing?](https://medium.com/@nebojsa.todorovic/is-golance-the-next-netflix-of-freelancing-be7b1a98fa80)
+
 8. [guru](https://www.guru.com/)
 9. [peopleperhour](https://www.peopleperhour.com/)
 10. [twine](https://www.twine.fm/)
 11. [prestoexperts](https://www.prestoexperts.com/)
 12. [expert360](https://expert360.com/)
-13. [goLance](https://golance.com/)
-
-[Is goLance The Next Netflix of Freelancing?](https://medium.com/@nebojsa.todorovic/is-golance-the-next-netflix-of-freelancing-be7b1a98fa80)
