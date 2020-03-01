@@ -38,7 +38,7 @@ This site is similar to Toptal. To get there you should do difficult online test
 
 6. [Scalable Path](https://www.scalablepath.com/)
 
-[Pricing, How to Post, Key Information, and FAQs](http)s://www.betterteam.com/scalable-path)
+[Pricing, How to Post, Key Information, and FAQs](https://www.betterteam.com/scalable-path)
 
 7. [golance](https://golance.com/)
 
