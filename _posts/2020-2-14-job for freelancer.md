@@ -23,6 +23,9 @@ You can get much higher rates there, maybe around $60-70/hour. But it's difficul
 [Toptal experience](https://medium.com/@joe.vqhoa/my-experience-with-toptal-dfdc0df077a)
 
 3. [Arc.dev](https://arc.dev/)
+
+This site is similar to Toptal. To get there you should do difficult online test.
+
 4. [freelancer](https://www.freelancer.com/)
 5. [fiverr](https://www.fiverr.com/)
 6. [Scalable Path](https://www.scalablepath.com/)
