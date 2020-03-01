@@ -17,6 +17,9 @@ Problem that it's difficult to find good paying job, because there are so many d
 And Upwork takes 20% fee from you earning. Also you need connection to apply and you need to buy them (there were free some time ago).
 
 2. [Toptal](https://www.toptal.com/)
+
+You can get much higher rates there, maybe around $60-70/hour. But it's difficult to became Toptal freelancer. They have very strict acceptance policy. Only 3% of appplicants can pass tests. Toptal even check if your English is good enough for communication with clients.
+
 3. [Arc.dev](https://arc.dev/)
 4. [freelancer](https://www.freelancer.com/)
 5. [fiverr](https://www.fiverr.com/)
