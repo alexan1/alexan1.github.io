@@ -33,6 +33,9 @@ This site is similar to Toptal. To get there you should do difficult online test
 [Looking for a Review of Freelancer.com?](https://blog.hubstaff.com/review-of-freelancer-com/)
 
 5. [fiverr](https://www.fiverr.com/)
+
+[Fiverr Review: Why You Should NEVER Use Fiverr For Freelance Work](https://thefreelanceeffect.com/fiverr-review/)
+
 6. [Scalable Path](https://www.scalablepath.com/)
 7. [golance](https://golance.com/)
 8. [guru](https://www.guru.com/)
