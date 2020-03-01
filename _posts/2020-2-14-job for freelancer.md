@@ -29,6 +29,9 @@ See also [Toptal experience](https://medium.com/@joe.vqhoa/my-experience-with-to
 This site is similar to Toptal. To get there you should do difficult online test.
 
 4. [freelancer](https://www.freelancer.com/)
+
+[Looking for a Review of Freelancer.com?](https://blog.hubstaff.com/review-of-freelancer-com/)
+
 5. [fiverr](https://www.fiverr.com/)
 6. [Scalable Path](https://www.scalablepath.com/)
 7. [golance](https://golance.com/)
