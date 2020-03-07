@@ -24,6 +24,8 @@ And here is my list:
 6. [qualified](https://www.qualified.io/)
 7. [codingame](https://www.codingame.com/)
 8. [leetcode](https://leetcode.com/)
+9. [GeeksforGeeks](https://www.geeksforgeeks.org/)
+10. [codechef](https://www.codechef.com/)
 
 After completing these tasks I started to add my code in [this Github library](https://github.com/alexan1/TaskLib). Everybody is free to use it.
 
