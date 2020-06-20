@@ -49,3 +49,5 @@ This site is similar to Toptal. To get there you should do difficult online test
 10. [twine](https://www.twine.fm/)
 11. [prestoexperts](https://www.prestoexperts.com/)
 12. [expert360](https://expert360.com/)
+
+Please see also [Best sites to land top remote jobs](https://dev.to/caroso1222/best-sites-to-land-top-remote-jobs-100k-year-4n04)
