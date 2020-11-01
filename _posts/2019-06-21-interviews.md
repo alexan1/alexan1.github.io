@@ -6,6 +6,8 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* October 30, 2020 phone [Sherweb](https://www.sherweb.com/)
+* October 30, 2020 Zoom [Alithya](https://www.alithya.com/) contract Meto
 * February 2t, 2020 phone [SOTI](https://www.soti.net/) Mississauga
 * February 26, 2020 phone Enbridge
 * February 24, 2020 person Morneau Shepell
