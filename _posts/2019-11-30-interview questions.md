@@ -70,6 +70,7 @@ OOP
 46. What do you like in C#?
 47. Difference between Managed and Unmanaged code in .NET
 48. Difference between Hashtable and Dictionary in C#
+49. What is reflection?
 
 
 ASP.NET
