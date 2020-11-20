@@ -71,6 +71,8 @@ OOP
 47. Difference between Managed and Unmanaged code in .NET
 48. Difference between Hashtable and Dictionary in C#
 49. What is reflection?
+50. how to check is string empty or null
+51. check if string contain some text
 
 
 ASP.NET
