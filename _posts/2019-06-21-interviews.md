@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* November 19, 2020 MS Teams [Desjardins](https://www.desjardins.com/)
 * October 30, 2020 phone [Sherweb](https://www.sherweb.com/)
 * October 30, 2020 Zoom [Alithya](https://www.alithya.com/) contract Meto
 * February 2t, 2020 phone [SOTI](https://www.soti.net/) Mississauga
