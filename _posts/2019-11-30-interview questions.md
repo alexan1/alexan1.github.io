@@ -73,6 +73,7 @@ OOP
 49. What is reflection?
 50. how to check is string empty or null
 51. check if string contain some text
+52. What is inteface?
 
 
 ASP.NET
