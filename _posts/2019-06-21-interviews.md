@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* dECEMBER 3, 2020 Team Equisoft
 * November 30, 2020 phone [Equisoft](https://www.equisoft.com/)
 * November 19, 2020 MS Teams [Desjardins](https://www.desjardins.com/)
 * October 30, 2020 phone [Sherweb](https://www.sherweb.com/)
