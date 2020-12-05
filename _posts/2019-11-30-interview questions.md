@@ -74,6 +74,7 @@ OOP
 50. how to check is string empty or null
 51. check if string contain some text
 52. What is inteface?
+53. What is diffence using async for for I/O and CPU bound operations?
 
 
 ASP.NET
