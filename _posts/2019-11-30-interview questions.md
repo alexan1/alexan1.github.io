@@ -75,7 +75,7 @@ OOP
 51. check if string contain some text
 52. What is inteface?
 53. What is diffence using async for for I/O and CPU bound operations?
-54. What is deneric and why we use it?
+54. What is generic and why we use it?
 
 
 ASP.NET
