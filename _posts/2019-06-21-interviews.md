@@ -6,6 +6,8 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* December 23, 2020 Meet [Randstad](https://www.randstad.ca/)
+* December 23, 2020 Zoom [TopDevz](https://www.topdevz.com/)
 * December 17, 2020 Zoom [Genpact](https://www.genpact.com/)
 * December 4, 2020 phone [Nexus Innovations](https://nexusinno.com/)
 * December 3, 2020 Team Equisoft
