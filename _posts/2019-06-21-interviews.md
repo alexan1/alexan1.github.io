@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-hidden: true
+published: true
+hidden: false
 ---
 
 Job in Montreal and in Canada
