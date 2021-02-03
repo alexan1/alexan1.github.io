@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* January, 19 Zoom [CORADIX](https://coradix.com/)
 * January, 14 Webex [PlanIT](https://planitcanada.ca/)
 * January, 13 Teams [Cofomo](https://www.cofomo.com/)
 * January, 7, 2021 Meet [Nexio](https://www.nexio.com/)
