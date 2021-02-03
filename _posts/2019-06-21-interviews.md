@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* January, 13 Teams [Cofomo](https://www.cofomo.com/)
 * January, 7, 2021 Meet [Nexio](https://www.nexio.com/)
 * December 23, 2020 Meet [Randstad](https://www.randstad.ca/)
 * December 23, 2020 Zoom [TopDevz](https://www.topdevz.com/)
