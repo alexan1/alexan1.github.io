@@ -19,6 +19,7 @@ OOP
 12. Why you need Singleton in your application?
 13. Did you use Strategy pattern?
 14. What is Encapsulation, Abstraction, Inheritance and Polymorphism?
+15. Which order called constructor in base and child class?
 
 
 .NET C#
