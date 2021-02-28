@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* January, 23 Phone [Adaptive](https://weareadaptive.com/)
 * January, 11 Teams [CAE](https://www.cae.com/)
 * January, 19 Zoom [CORADIX](https://coradix.com/)
 * January, 14 Webex [PlanIT](https://planitcanada.ca/)
