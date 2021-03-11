@@ -6,8 +6,8 @@ hidden: true
 
 Job in Montreal and in Canada
 
-* March 10 Webex []
-* March 3 Zoom [Maskatel](https://maskatel.ca/)
+* March 10 Webex [Maskatel](https://maskatel.ca/)
+* March 3 Zoom [Adaptive](https://weareadaptive.com/)
 * Febryary 23 Teams [RTM](https://exo.quebec/)
 * February 23 Phone [Adaptive](https://weareadaptive.com/)
 * January 11 Teams [CAE](https://www.cae.com/)
