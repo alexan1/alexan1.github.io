@@ -6,14 +6,15 @@ hidden: true
 
 Job in Montreal and in Canada
 
-* March, 3 Zoom [Adaptive](https://weareadaptive.com/)
-* Febryary, 23 Teams [RTM](https://exo.quebec/)
-* February, 23 Phone [Adaptive](https://weareadaptive.com/)
-* January, 11 Teams [CAE](https://www.cae.com/)
-* January, 19 Zoom [CORADIX](https://coradix.com/)
-* January, 14 Webex [PlanIT](https://planitcanada.ca/)
-* January, 13 Teams [Cofomo](https://www.cofomo.com/)
-* January, 7, 2021 Meet [Nexio](https://www.nexio.com/)
+* March 10 Webex []
+* March 3 Zoom [Maskatel](https://maskatel.ca/)
+* Febryary 23 Teams [RTM](https://exo.quebec/)
+* February 23 Phone [Adaptive](https://weareadaptive.com/)
+* January 11 Teams [CAE](https://www.cae.com/)
+* January 19 Zoom [CORADIX](https://coradix.com/)
+* January 14 Webex [PlanIT](https://planitcanada.ca/)
+* January 13 Teams [Cofomo](https://www.cofomo.com/)
+* January 7, 2021 Meet [Nexio](https://www.nexio.com/)
 * December 23, 2020 Meet [Randstad](https://www.randstad.ca/)
 * December 23, 2020 Zoom [TopDevz](https://www.topdevz.com/)
 * December 17, 2020 Zoom [Genpact](https://www.genpact.com/)
