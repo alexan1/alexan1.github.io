@@ -78,6 +78,7 @@ OOP
 52. What is inteface?
 53. What is diffence using async for for I/O and CPU bound operations?
 54. What is generic and why we use it?
+55. When this keyword used in c# in static method?
 
 
 ASP.NET
