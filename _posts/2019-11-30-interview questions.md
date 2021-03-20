@@ -20,6 +20,7 @@ OOP
 13. Did you use Strategy pattern?
 14. What is Encapsulation, Abstraction, Inheritance and Polymorphism?
 15. Which order called constructor in base and child class?
+16. What is Decorator design pattern?
 
 
 .NET C#
