@@ -186,8 +186,9 @@ DevOps
 1. How we can do CD?
 
 
-Agile
+Agile and development
 1. Agile roles
 2. Story ponts
+3. Refactoring Techniques
 
 
