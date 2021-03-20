@@ -172,6 +172,7 @@ JavaScript and Angular, React
 
 HTML and CSS
 1. What is difference between span and div?
+2. Draw a circle using css
 
 
 Azure
