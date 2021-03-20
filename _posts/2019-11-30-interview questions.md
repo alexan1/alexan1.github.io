@@ -169,6 +169,10 @@ JavaScript and Angular, React
 11. What do you like in JavaScript?
 
 
+HTML and CSS
+1. What is difference between span and div?
+
+
 Azure
 1. What Azure services you have used?
 2. How to scale application?
