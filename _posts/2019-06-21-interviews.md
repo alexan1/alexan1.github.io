@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* March 30, Webex [ASEQ](https://www.aseq.ca/)
 * March 26, Zoom [Alithya](https://www.alithya.com/)
 * March 18, Webex [BDC](https://www.bdc.ca/)
 * March 10, Webex [Maskatel](https://maskatel.ca/)
