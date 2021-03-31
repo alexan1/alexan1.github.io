@@ -156,6 +156,7 @@ DB and SQL
 27. Did you use triggers?
 28. How to optimize SP perfomance?
 29. What is difference between clastered and non-clastered index?
+30. What is a CTE in SQL Server?
 
 
 JavaScript and Angular, React
