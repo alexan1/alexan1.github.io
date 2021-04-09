@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* April 9, Teams [Tundra](https://www.tundratechnical.ca/)
 * April 7, Teams [Terranova Security](https://terranovasecurity.com/)
 * March 30, Webex [ASEQ](https://www.aseq.ca/)
 * March 26, Zoom [Alithya](https://www.alithya.com/)
