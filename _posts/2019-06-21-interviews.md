@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* April 15, Teams [Parker](https://www.parker.com/)
 * April 12, Meet [webisoft](https://webisoft.com/)
 * April 9, Teams [Tundra](https://www.tundratechnical.ca/)
 * April 7, Teams [Terranova Security](https://terranovasecurity.com/)
