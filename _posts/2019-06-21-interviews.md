@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* April 16, Teams [Robert Half](https://www.roberthalf.ca/)
 * April 15, Teams [Parker](https://www.parker.com/)
 * April 12, Meet [webisoft](https://webisoft.com/)
 * April 9, Teams [Tundra](https://www.tundratechnical.ca/)
