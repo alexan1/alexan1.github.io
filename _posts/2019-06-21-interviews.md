@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* April 20, Meet [LoginID](https://loginid.io/)
 * April 20, Teams [Orckestra](https://www.orckestra.com/)
 * April 19, Meet [LoginID](https://loginid.io/)
 * April 19, Teams [TC Transcontinental](https://tctranscontinental.com/)
