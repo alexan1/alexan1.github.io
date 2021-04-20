@@ -6,6 +6,10 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* April 20, Teams [Orckestra](https://www.orckestra.com/)
+* April 19, Meet, [LoginID](https://loginid.io/)
+* April 19, Teams, [TC Transcontinental](https://tctranscontinental.com/)
+* April 19, Teams, [Loopsin](https://www.loopsin.com/)
 * April 16, Teams [Robert Half](https://www.roberthalf.ca/)
 * April 15, Teams [Parker](https://www.parker.com/)
 * April 12, Meet [webisoft](https://webisoft.com/)
