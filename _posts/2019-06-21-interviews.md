@@ -84,6 +84,7 @@ Job in Montreal and in Canada
 
 Job in US
 
+* April 21, Zoom [Braintrust](https://www.usebraintrust.com/)
 * February 25, 2020 bluejeans [Mphasis](https://www.mphasis.com/) for Infosys (second)
 * February 22, 2020 webex Cognizant
 * February 19, 2020 zoom [Mphasis](https://www.mphasis.com/) for Infosys
