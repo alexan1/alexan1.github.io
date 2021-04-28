@@ -6,6 +6,9 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* April 27, Phone, Re
+* April 26, Facebook [Facebook](https://www.facebook.com/)
+* April 21, Zoom [Braintrust](https://www.usebraintrust.com/)
 * April 20, Meet [LoginID](https://loginid.io/)
 * April 20, Teams [Orckestra](https://www.orckestra.com/)
 * April 19, Meet [LoginID](https://loginid.io/)
