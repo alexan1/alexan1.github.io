@@ -6,7 +6,9 @@ hidden: true
 
 Job in Montreal and in Canada
 
-* April 27, Phone, Re
+* April 27, Zoom, [Power Factors](https://pfdrive.com/)
+* April 27, Teams, [Cofina](https://cofina.ca/)
+* April 27, Phone, [ReasonOne](https://www.reasononeinc.com/)
 * April 26, Facebook [Facebook](https://www.facebook.com/)
 * April 21, Zoom [Braintrust](https://www.usebraintrust.com/)
 * April 20, Meet [LoginID](https://loginid.io/)
