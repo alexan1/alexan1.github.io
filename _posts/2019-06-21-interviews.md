@@ -6,6 +6,8 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* April 30, gotomeeting [Assumption Life](https://www.assumption.ca/)
+* April 29, Meet [MEDFAR](https://www.medfarsolutions.com/)
 * April 27, Zoom [Power Factors](https://pfdrive.com/)
 * April 27, Teams [Cofina](https://cofina.ca/)
 * April 27, Phone [ReasonOne](https://www.reasononeinc.com/)
