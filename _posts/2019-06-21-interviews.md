@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* May 3, Meet [odiin](https://odiin.tech/)
 * April 30, gotomeeting [Assumption Life](https://www.assumption.ca/)
 * April 29, Meet [MEDFAR](https://www.medfarsolutions.com/)
 * April 27, Zoom [Power Factors](https://pfdrive.com/)
@@ -91,6 +92,7 @@ Job in Montreal and in Canada
 
 Job in US
 
+* May 4, Webex [Infosys](https://www.infosys.com/)
 * April 21, Zoom [Braintrust](https://www.usebraintrust.com/)
 * February 25, 2020 bluejeans [Mphasis](https://www.mphasis.com/) for Infosys (second)
 * February 22, 2020 webex Cognizant
