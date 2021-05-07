@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* May 7, Teams, [Kinaxis](https://www.kinaxis.com/)
 * May 3, Meet [odiin](https://odiin.tech/)
 * April 30, gotomeeting [Assumption Life](https://www.assumption.ca/)
 * April 29, Meet [MEDFAR](https://www.medfarsolutions.com/)
