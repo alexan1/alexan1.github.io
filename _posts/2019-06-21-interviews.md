@@ -6,6 +6,7 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* June 1, Teams [Deloitte](https://www2.deloitte.com/)
 * May 14, Teams [PSP](https://www.investpsp.com/)
 * May 13, Teams [Transport Canada](https://tc.canada.ca/)
 * May 7, Teams [Kinaxis](https://www.kinaxis.com/)
