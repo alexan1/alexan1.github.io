@@ -6,6 +6,9 @@ hidden: true
 
 Job in Montreal and in Canada
 
+* March 9, 2022 Webex [Dynalife](https://www.dynalife.ca/)
+* March 8, 2022 Teams [Wolters Kluwer](https://www.wolterskluwer.com/)
+* March 2, 2022 Teams [BDC](https://www.bdc.ca/)
 * June 9, 2021 Webex [BDC](https://www.bdc.ca/)
 * June 1, 2021 Teams [Deloitte](https://www2.deloitte.com/)
 * May 14, 2021Teams [PSP](https://www.investpsp.com/)
