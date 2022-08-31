@@ -9,7 +9,7 @@ You can find [comprehensive list of sites for freelacers](https://blog.payoneer.
 
 Let's look at these sites:
 
-1. [Upwork](https://www.upwork.com/)
+* [Upwork](https://www.upwork.com/)
 
 Probably it's the most popular freelance resource. You can find many projects here.
 Problem that it's difficult to find good paying job, because there are so many developers, who are ready to work for $5/h.
