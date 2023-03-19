@@ -26,6 +26,7 @@ And here is my list:
 8. [leetcode](https://leetcode.com/)
 9. [GeeksforGeeks](https://www.geeksforgeeks.org/)
 10. [codechef](https://www.codechef.com/)
+11. [DevSkiller](https://devskiller.com/)
 
 After completing these tasks I started to add my code in [this Github library](https://github.com/alexan1/TaskLib). Everybody is free to use it.
 
