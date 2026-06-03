@@ -17,20 +17,15 @@ avatar: https://raw.githubusercontent.com/alexan1/alexan1.github.io/master/image
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
+  email: alexan1@gmail.com
+  facebook: alexandre.konioukhov
   github: alexan1
-  instagram:
-  linkedin:
-  pinterest:
-  rss: true # just type anything here for a working RSS icon
+  instagram: akonioukhov
+  linkedin: in/alexkonioukhov
+  rss: true
   twitter: alexank1
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
+  stackoverflow: users/240564/alexan
+  youtube: @AlexandreKonioukhov
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
