@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: post
 title: "Introducing ThePeopleRating: A New Way to Rate Public Figures"
