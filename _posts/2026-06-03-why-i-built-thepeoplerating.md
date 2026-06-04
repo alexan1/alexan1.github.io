@@ -9,7 +9,7 @@ I created **ThePeopleRating** to provide a simple and transparent way for people
 
 You can visit the site here:
 
-https://thepeoplerating.com
+[https://thepeoplerating.com](https://thepeoplerating.com)
 
 ## Why I Built It
 
@@ -57,7 +57,7 @@ ThePeopleRating is still evolving. Future improvements may include:
 
 You can explore the platform at:
 
-https://thepeoplerating.com
+[https://thepeoplerating.com](https://thepeoplerating.com)
 
 If you find the idea interesting, I would appreciate your feedback and ratings. Every contribution helps improve the platform and makes the results more meaningful.
 ```
